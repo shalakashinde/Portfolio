@@ -1,0 +1,6 @@
+git status -s ( 2 green)
+git diff
+git add (1 green 2 red)
+git commit
+git log(static locally)
+git push origin master(online)
